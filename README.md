@@ -1,10 +1,3 @@
-<p>
-  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" >
- </p> 
-
- <p>
- Entrar no site https://  <h1 align="center"> Spacetime </h1>
-
   <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +7,7 @@
   <br>
 
   <p align="center">
-    <img alt="projeto Spacetime" src="./assets/Spacetime.png" width="100%">
+    <img alt="projeto Spacetime" src=".github/preview.png" width="100%">
   </p>
 
   ## 🚀 Tecnologias
@@ -39,4 +32,3 @@
 
   Feito com ♥ by heitorbbtc :wave: 
 heitorbbtc.github.io/NLW-spacetime/
- </p>
